@@ -1,0 +1,39 @@
+#mais{
+  display: none;
+}
+#btnLeiaMais{
+  color: #ED7839;
+  border: none;
+  background-color: #ffffff;
+}
+.bonito{
+   color: #5C5C5C;
+   
+}
+.section4{
+  border: 1px solid rgba(236, 236, 236, 1);
+  margin-left: 43px;
+  margin-right:  45px;
+
+}
+.res{
+  background: rgba(253, 241, 235, 1);
+  border: 1px solid rgba(236, 236, 236, 1);
+  padding: 10px 15px;
+}
+.res h2 {
+ color: rgba(78, 78, 78, 1);
+
+}
+.textol{
+  margin-top: 25px;
+ margin-left: 15px;
+}
+@media screen and (max-width: 768px){
+  .section4{
+    margin-top: 50px;
+  }
+  .section4{
+    width: 600px;
+  }
+}

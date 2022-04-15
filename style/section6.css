@@ -1,0 +1,244 @@
+
+.box1{
+  background: rgba(255, 255, 255, 1);
+  border: 1px solid rgba(231, 231, 231, 1);
+  margin-left: 58px;
+  margin-right: 60px;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+.box1 p{
+  color: #4D4D4D;
+}
+.box1 h2{
+  color: #ED7839;
+  padding: 17px 0px 0px 24px;
+}
+.box1 p {
+  padding: 3px 0px 10px 24px;
+}
+.box1{
+  border: 1px solid rgba(231, 231, 231, 1);
+}
+.box1filho{
+  display: flex;
+ text-align: center;
+ gap: 10px;
+ margin-left: 40px;
+  margin-bottom: 18px;
+ align-items: center;
+ margin-top: 10px;
+}
+
+.box1filho p{
+  margin-right: 20px;
+  margin-left: -40px;
+}
+.box1filho img{
+  margin-left: -20px;
+  margin-bottom: 8px;
+ 
+}
+#mudar{
+  display: none;
+  
+  
+
+}
+#mudar p{
+  text-align: center;
+  font-size: 14px;
+  color: #5C5C5C;
+  margin-top: 15px;
+  margin-bottom:20px ;
+ 
+ 
+}
+.enviardados label{
+  display: block;
+  margin-left: 58px;
+ 
+}
+.enviardados label{
+  Size:16px;
+  color: #ED7839;
+  
+}
+.escrever{
+  border: 1px solid rgba(204, 204, 204, 1);
+  Width:1025.52px;
+Height: 39px;
+padding: 5px;
+margin-left: 58px;
+border-radius: 3px;
+}
+.escrever1{
+  border: 1px solid rgba(204, 204, 204, 1);
+  Width :1025.52px;
+ Height: 113px;
+ padding: 5px;
+ margin-left: 58px;
+ border-radius: 3px;
+ 
+}
+.formenviar{
+
+  border: 1px solid rgba(204, 204, 204, 1);
+  Width :1025.52px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 58px;
+  border-radius: 3px;
+}
+.formenviar button{
+  background: linear-gradient(180deg, #FEB154 0%, #F1833E 100%);
+padding: 7px 100px 7px 100px;
+color: white;
+border-radius: 4px;
+}
+.icones123{
+  margin-top: 10px;
+  margin-left: 30px;
+  
+}
+.icones123 img{
+ margin-right: 12px;
+}
+
+/*ultimo contaiter*/
+#cader{
+  display: none;
+  text-align:  center;
+
+
+}
+#cader .titulo{
+  font-weight: 700;
+font-size: 18px;
+color: #ED7839;
+margin-top: 15px;
+
+}
+#cader p{
+  font-weight: 400;
+  font-size: 14px;
+  color: #595959;
+}
+.caderfilho{
+  margin-top: 29px;
+  font-weight: 500;
+font-size: 14px;
+color: #F48F44;
+
+}
+.caderfilho a{
+  font-weight: 500;
+font-size: 14px;
+color: #F48F44;
+border-bottom: solid 1px  #F48F44;
+}
+.filho{
+  margin-top: 47px;
+}
+.filho button{
+  padding: 7px 55px;
+background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+border-radius: 4px;
+color: #FFFFFF;
+font-weight: 700;
+font-size: 15px;
+}
+.feed{
+  background: #DDDDDD;
+border: 1px solid #E7E7E7;
+box-sizing: border-box;
+border-radius: 4px;
+height: 148px;
+width: 1028px;
+margin-left: 58px;
+margin-top: 14px;
+
+
+}
+.feed h2{
+  margin-top: 8px;
+  color: #707070;
+  font-weight: 700;
+font-size: 16px;
+}
+.feed img {
+  margin-top: 35px;
+}
+.feed a{
+  margin-top: 8px;
+  color: #ED7839;
+  font-weight: 400;
+font-size: 14px;
+border-bottom: 1px solid #ED7839;
+}
+.chat,.chat2,.chat3,.chat4{
+
+  display: none;
+}
+.chat1{
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(231, 231, 231, 1);
+}
+
+.chat1{
+  font-weight: 700;
+  font-size: 12px;
+  margin-top: 18px;
+  
+}
+.chatfilho p ,img{
+  display: inline;
+  margin-right: 20px;
+  color: #ED7839;
+  font-weight: 700;
+font-size: 14px;
+
+ 
+}
+.chatfilho img{
+margin-top: -10px;
+
+}
+.chatfilho {
+  margin-top: 10px;
+}
+.pe{
+  font-weight: 400;
+font-size: 14px;
+  margin-top: 0px;
+ color: #4D4D4D;
+ margin-bottom: 35px; 
+  border: 1px solid rgba(231, 231, 231, 1);
+}
+
+@media screen and (max-width: 768px){
+  .escrever1{
+    width: 500px;
+  }
+  .escrever{
+    width: 500px;
+  }
+  .formenviar{
+    width: 500px;
+  }
+  .feed{
+    width: 500px;
+    
+  }
+  
+  
+  }
+  @media screen and (max-width: 768px){
+    .box1{
+      width: 500px;
+    }
+    
+    
+    }

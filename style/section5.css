@@ -1,0 +1,58 @@
+
+.estrela{
+  margin-top: 30px;
+margin-left: 43px;
+  margin-right:  45px;
+
+
+}
+.topico{
+ display: flex;
+ justify-content: center;
+ margin-top: 5px;
+ 
+}
+.topicofilho{
+text-align: center;
+margin-top: 27px;
+} 
+
+.estrela .dis{
+  border: 1px solid rgba(236, 236, 236, 1);
+  background: #FDF1EB;
+  padding: 10px 15px;
+  font-size: 20px;
+  color: #4E4E4E;
+}
+.nulo p{
+ color: rgba(89, 89, 89, 1);
+ font-size: 14px;
+}
+
+.lo3{
+  margin-left: 51px;
+  margin-right: 100px;
+}
+.lo1{
+  margin-right: 51px;
+}
+.bt{
+  margin-left: 200px;
+  margin-top: 10px;
+  background: linear-gradient(180deg, #FEB254 0%, #F0813D 100%);
+box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.12), 0px 2px 2px rgba(0, 0, 0, 0.24);
+border-radius: 4px;
+padding: 7px 36px 7px 20px;
+color: #FFFFFF;
+}
+
+.estrela{
+  border: 1px solid rgba(236, 236, 236, 1)
+}
+@media screen and (max-width: 768px){
+  .estrela{
+    margin-top: 50px;
+    width: 600px;
+  }
+  
+}

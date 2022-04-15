@@ -1,0 +1,41 @@
+@import "nav.css";
+@import "section1.css";
+@import "section2.css";
+@import "section3.css";
+@import "section4.css";
+@import "section5.css";
+@import "section6.css";
+*{
+  
+  margin: 0px;
+  padding: 0px;
+}
+p,h2{
+  margin: 0px;
+}
+body{
+ 
+  background-color:  rgba(255, 255, 255, 1);
+  font-family: "Roboto"
+  ;
+}
+li {
+  list-style-type: none;
+}
+a{
+  text-decoration: none;
+}
+
+
+.ph{
+  margin: 0px;
+}
+.nada{
+  background-color: black;
+}
+.container{
+  max-width: 100%;
+}
+.bn{
+  height: 300px;
+}

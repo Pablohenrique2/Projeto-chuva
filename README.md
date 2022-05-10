@@ -1,12 +1,19 @@
+
 # Projeto-chuva
 
-# Descrição do projeto
+Projeto criado no intuido de participação de um proceso seletivo na empresa , que o objetivo era em 7 dias criar uma copia de um site produzido no figma.
 
-Neste projeto, desenvolvo um site utilizando HTML, CSS , Javascript e bootstrap.
+## Utilizando 
+
+- HTML
+- CSS
+- Bootstrap
+- JAVASCRIPT
 
 ## Para rodar o projeto
 
-Para executarmos o projeto, basta apenas abrir o arquivo index.html em um navegador de preferência.
+So baixar o projeto e basta apenas abrir o arquivo index.html em um navegador de preferência.
+
 
 ## Confira o resultado clicando no Gif.
 
